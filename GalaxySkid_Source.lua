@@ -1,5 +1,5 @@
 --[[
-Galaxy.Skid scripy by Fizz
+Galaxy.Skid script by Fizz
 Modded by ultraHz
 << Source code version >>
 --]]
@@ -60,13 +60,13 @@ local Library = loadstring(game:HttpGet('https://raw.githubusercontent.com/MuSin
 --// Window
 
 local Window = Library:CreateWindow({
-    Name = "Onyx Hax for CB",
+    Name = "Galaxy.Fizz Modded",
     LoadingTitle = "Loading Script",
     LoadingSubtitle = "Modded by Tõnisson",
     ConfigurationSaving = {
         Enabled = True,
         FolderName = "CounterBlox", -- Create a custom folder for your hub/game
-        FileName = "UltraCounterBlox"
+        FileName = "CounterBlox"
     },
     Discord = {
         Enabled = false,
