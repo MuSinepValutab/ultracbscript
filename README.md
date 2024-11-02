@@ -1,6 +1,4 @@
 # ultracbscript
-Counter blox script made by ultra
+Counter blox script made by Fizz
+Basically ported the script into git and removed the sirius library popups
 
-Loader >>
-
-loadstring(game:HttpGet('https://raw.githubusercontent.com/MuSinepValutab/ultracbscript/refs/heads/main/GalaxySkid_Source.lua'))()
